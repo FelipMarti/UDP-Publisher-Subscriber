@@ -8,7 +8,7 @@ It's interesting to see how we lose some data when sending by UDP.
 ## How to Execute
 * `git clone  https://github.com/FelipMarti/UDP-Publisher-Subscriber.git`
 * `cd UDP-Publisher-Subscriber`
-* `mkdir`
+* `make`
 * `./udp-subscriber`
 * `./udp-publisher` (in other terminal)
 
