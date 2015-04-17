@@ -10,5 +10,5 @@ It's interesting to see how we lose some data when sending by UDP.
 * `cd UDP-Publisher-Subscriber`
 * `make`
 * `./udp-subscriber`
-* `./udp-publisher` (in other terminal)
+* `./udp-publisher` (in another terminal)
 
